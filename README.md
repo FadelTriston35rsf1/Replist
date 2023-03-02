@@ -35,9 +35,3 @@
 * 点击Webview里面的小铅笔图标，按照步骤绑定域名
 
 ![image](https://user-images.githubusercontent.com/122191366/218304873-3aefe218-272f-4a1b-b0ee-0e4552b12db7.png)
-
-## 赞助
-
-爱发电：https://afdian.net/a/Misaka-blog
-
-![afdian-MisakaNo の 小破站](https://user-images.githubusercontent.com/122191366/211533469-351009fb-9ae8-4601-992a-abbf54665b68.jpg)
